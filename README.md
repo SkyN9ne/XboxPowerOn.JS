@@ -16,7 +16,7 @@ npm install xbox-on
 ## Usage (CLI)
 
 ```node
-$ xbox-on --help
+xbox-on --help
 
   Usage: cli --ip=<ip_address> --live_device_id=<live_device_id>
 
